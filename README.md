@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning 
 --!>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megaacheyounes&show_icons=true&locale=en" alt="megaacheyounes" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=megaacheyounes&show_icons=true&locale=en" alt="megaacheyounes" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megaacheyounes&show_icons=true&locale=en&layout=compact" alt="megaacheyounes" /></p>
 
