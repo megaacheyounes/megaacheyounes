@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes Megaache</h1>
-<h3 align="center">A passionate Android and FullStack web developer</h3>
+<h3 align="center">A passionate Android and Full Stack Web Developer</h3>
 <h4 align="center" target="_blank"> <a href="https://younes-megaache.com/">www.younes-megaache.com</a></h4>
 
 <!--
@@ -9,10 +9,13 @@
 
 - 🌱 I’m currently learning 
 --!>
+ 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=megaacheyounes&show_icons=true&locale=en" alt="megaacheyounes" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megaacheyounes&show_icons=true&theme=tokyonight" alt="megaacheyounes" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=megaacheyounes&show_icons=true&locale=en&layout=compact" alt="megaacheyounes" /></p>
+ 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaacheyounes&langs_count=8&theme=tokyonight&layout=compact" alt="megaacheyounes" /></p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
