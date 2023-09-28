@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Younes Megaache</h1>
-<h3 align="center"> <a href="https://younes-megaache.com/"  target="_blank">www.younes-megaache.com</a></h3>
+<h2 align="center">
+  Hi 👋, I'm Younes Megaache 
+</h2>
 <h3 align="center">A passionate Android and Full Stack Web Developer</h3>
+<h3 align="center"> <a href="https://younes-megaache.com/"  target="_blank">www.younes-megaache.com</a></h3>
+<h4 align="center"> <a href="https://linkedin.com/in/megaache-younes" target="_blank">#open_to_work</a></h4>
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megaacheyounes&label=Profile%20views&color=0e75b6&style=flat" alt="megaacheyounes" /> </p>
@@ -9,6 +13,7 @@
 
 - 🌱 I’m currently learning 
 --!>
+
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=megaacheyounes&show_icons=true&theme=tokyonight" alt="megaacheyounes" /></p>
 
