@@ -15,7 +15,7 @@
 --!>
 
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=megaacheyounes&show_icons=true&theme=tokyonight" alt="megaacheyounes" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=megaacheyounes&show_icons=true&theme=tokyonight&count_private=true" alt="megaacheyounes" /></p>
 
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megaacheyounes&langs_count=8&theme=tokyonight&layout=compact" alt="megaacheyounes" /></p>
