@@ -21,6 +21,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaacheyounes&size_weight=0.3&count_weight=0.6&langs_count=8&theme=tokyonight&layout=donut&hide=html" alt="megaacheyounes" /></p>
 
 
+<p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=megaacheyounes&theme=tokyonight&column=4&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="megaacheyounes" /></p>
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/megaache-younes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megaache-younes" height="30" width="40" /></a>
